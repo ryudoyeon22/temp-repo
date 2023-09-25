@@ -8,12 +8,12 @@
 Kernel: Core of OS that controls and communicates with hardware resource     
 Shell: Interface that allows users to communicate with kernal: bash, zsh, ...   
 Users runs applications and give commands through shell
-![kernal and shell](C:\Users\ryudo\OneDrive - gachon.ac.kr\가천대 2-2\오픈소스SW\picture\kernal and shell.png)
+
 ### CLI(Command Line Interface) vs GUI(Graphical User Interface)    
 CLI:   
-![CLI]("C:\Users\ryudo\OneDrive - gachon.ac.kr\가천대 2-2\오픈소스SW\picture\CLI.png")
+Have to remember commands    
 GUI:   
-![GUI]("C:\Users\ryudo\OneDrive - gachon.ac.kr\가천대 2-2\오픈소스SW\picture\GUI.png")
+Easy to use and Intuitive
 ### Shell command
 ---
 
