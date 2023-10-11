@@ -50,7 +50,7 @@ $ git add .
 ### Unstaging a file   
 ```sh
 $ git rm -cached [file_name.txt]
-rm 'file'_name.txt
+rm 'file_name.txt'
 ```
 ### Ignoring a file   
 ```sh
